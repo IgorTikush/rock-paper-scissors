@@ -1,0 +1,25 @@
+.score {
+    
+    display: flex;
+    justify-content: center;
+}
+.score-number {
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+}
+
+.buttons {
+    text-align: center;
+   
+}
+
+button {
+    font-size: 20px;
+    margin: 40px;
+}
+
+#result {
+    text-align: center;
+    font-size: 30px;
+}
